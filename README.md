@@ -1,1 +1,1 @@
-# DAYB
+# This repository is a supplementary file for Samsel and colleagues' (2020) study measuring geospatial dental accessibility among youth in Alabama. This notebook highlights most methods used by authors to generate results. The study's publication can be found here:  <<insert publication's URL>>
